@@ -9,4 +9,6 @@ The goal of the project is to predict the number of moves (from 0-16) required t
 6. Black King rank 	          -X6
 7. optimal depth-of-win for White in 0 to 16 moves, otherwise drawn {draw, zero, one, two, ..., sixteen}.			  -Y	
 
-As a team we are fascinated with the game. The rich history and the complexity (10 to the power 120 games possible) of the game dragged us to this project. The chess Engine came to limelight when deep blue, IBM Engine beat Garry Kasparov (in year 1997) the Russian Grand Master and world champion at that time. After that chess Engines took a huge turn and engines like stock fish were developed which is based on brute force algorithms. In late 2017 Google developed an AI based chess Engine which learned the game, in just 4 hours playing with itself and beat stockfish8. We got inspired by the engines and how they evolve that is why we want to explore this dataset.
+As a team we are fascinated with the game. The rich history and the complexity (10 to the power 120 games possible) of the game dragged us to this project. The chess Engine came to limelight when deep blue, IBM Engine beat Garry Kasparov (in year 1997) the Russian Grand Master and world champion at that time. After that chess Engines took a huge turn and engines like stock fish were developed which is based on brute force algorithms. 
+
+In late 2017 Google developed an AI based chess Engine which learned the game, in just 4 hours playing with itself and beat stockfish8. We got inspired by the engines and how they evolve that is why we want to explore this dataset.
